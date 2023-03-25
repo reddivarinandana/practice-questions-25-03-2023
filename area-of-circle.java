@@ -5,7 +5,7 @@ public class Main{
         int area;
         int pi=22/7;
         int r=9;
-        area=(pi*r*r);
-        System.out.println(area);
+        Area=(pi*r*r);
+        System.out.println(Area);
     }
 }
